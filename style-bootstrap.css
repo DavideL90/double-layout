@@ -55,3 +55,11 @@ hr{
   color: white;
   padding: 10px;
 }
+
+/* FOOTER */
+footer{
+  background-color: white;
+}
+footer .container{
+  padding: 50px;
+}
