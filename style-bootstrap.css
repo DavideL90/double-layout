@@ -52,7 +52,10 @@ hr{
   color: white;
   padding: 10px;
 }
-
+#last-par{
+  text-align: center;
+  padding: 5% 10%;
+}
 /* FOOTER */
 footer{
   background-color: white;

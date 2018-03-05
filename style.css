@@ -67,6 +67,9 @@ hr{
 .container.employee{
   padding-top: 0;
 }
+.container.employee p{
+  padding: 5% 10%;
+}
 .wrapper-employee{
   display: inline-block;
   margin: 0 15%;
